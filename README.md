@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/mohamed-awad-265427232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mohamed-awad-265427232" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mohamedawadtalaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedawadtalaat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/tesla_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tesla_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/m_awad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/m_awad/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-awad-265427232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mohamed-awad-265427232" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohamedawadtalaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedawadtalaat" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/TESLA_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tesla_07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/m_awad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/m_awad/" height="30" width="40" /></a>
 </p>
 
 
@@ -53,5 +53,3 @@ Here are some of the certifications I've earned:
 - **LinkedIn**: [Mohamed Awad Talaat](http://www.linkedin.com/in/mohamed-awad-265427232/)
 
 ---
-
-
